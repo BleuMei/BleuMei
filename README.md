@@ -1,12 +1,8 @@
 
 # BleuMei
 ---
-<div align="center">
-
-### ✦ building things that feel alive ✦
-
-</div>
-
+### ✦ 𝒷𝓊𝒾𝓁𝒹𝒾𝓃𝑔 𝓉𝒽𝒾𝓃𝑔𝓈 𝓉𝒽𝒶𝓉 𝒻𝑒𝑒𝓁 𝒶𝓁𝒾𝓋𝑒 ✦
+---
 Computer Engineering Student  
 Creative systems • fantasy-inspired UI • random late night ideas
 
