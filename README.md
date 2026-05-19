@@ -1,3 +1,5 @@
+
+<div align="center">
 # BleuMei
 
 <div align="center">
@@ -63,4 +65,4 @@ Personal 3D models and creative experiments made using Blender and Fusion 360.
 
 ## 🌱 Current Goal
 
-becoming capable enough to turn personal ideas into real systems.
+Becoming capable enough to turn personal ideas into real systems.
