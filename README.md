@@ -1,7 +1,6 @@
 
-<div align="center">
 # BleuMei
-
+---
 <div align="center">
 
 ### ✦ building things that feel alive ✦
