@@ -2,11 +2,11 @@
 
 ### ✦ 𝒷𝓊𝒾𝓁𝒹𝒾𝓃𝑔 𝓉𝒽𝒾𝓃𝑔𝓈 𝓉𝒽𝒶𝓉 𝒻𝑒𝑒𝓁 𝒶𝓁𝒾𝓋𝑒 ✦
 
-<img src="https://img.shields.io/badge/Computer_Engineering_Student-ffffff?style=for-the-badge&color=eadcff"/>
+<img src="https://img.shields.io/badge/Computer_Engineering_Student-f8f8ff?style=for-the-badge&logoColor=d9b3ff&labelColor=f8f8ff&color=e9d5ff"/>
 
-<img src="https://img.shields.io/badge/🫧_creative_systems-ffffff?style=flat&color=f8e1ff"/>
-<img src="https://img.shields.io/badge/🌙_fantasy_UI-ffffff?style=flat&color=e0e7ff"/>
-<img src="https://img.shields.io/badge/✨_late_night_ideas-ffffff?style=flat&color=dbeafe"/>
+<img src="https://img.shields.io/badge/creative_systems-f8f8ff?style=flat-round&labelColor=f8f8ff&color=f5e0dc"/>
+<img src="https://img.shields.io/badge/fantasy_UI-f8f8ff?style=flat-round&labelColor=f8f8ff&color=cdd6f4"/>
+<img src="https://img.shields.io/badge/late_night_ideas-f8f8ff?style=flat-round&labelColor=f8f8ff&color=b4befe"/>
 
 ---
 
