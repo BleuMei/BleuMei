@@ -1,60 +1,74 @@
-
 # BleuMei
 
 ### ✦ 𝒷𝓊𝒾𝓁𝒹𝒾𝓃𝑔 𝓉𝒽𝒾𝓃𝑔𝓈 𝓉𝒽𝒶𝓉 𝒻𝑒𝑒𝓁 𝒶𝓁𝒾𝓋𝑒 ✦
----
-Computer Engineering Student  
-Creative systems • fantasy-inspired UI • random late night ideas
 
-I enjoy building projects that feel interactive, immersive, and personal instead of cold and lifeless. Most of my work revolves around creative web systems, student-focused design, and experimenting with ideas that somehow become real projects.
+<img src="https://img.shields.io/badge/Computer%20Engineering%20Student-cba6f7?style=flat-square"/>
+<img src="https://img.shields.io/badge/creative_systems-f5c2e7?style=flat-square"/>
+<img src="https://img.shields.io/badge/fantasy_UI-b4befe?style=flat-square"/>
+<img src="https://img.shields.io/badge/late_night_ideas-89b4fa?style=flat-square"/>
+
+---
+
+I enjoy building projects that feel interactive, immersive, and personal instead of cold and lifeless.
+
+Most of my work revolves around:
+- ✦ fantasy-inspired systems
+- ✦ student-focused design
+- ✦ interactive web experiences
+- ✦ random ideas that somehow become real projects
 
 ---
 
 # 🌙 Current Main Project
 
-# ✨ Fantasy LMS Website ✨
+## ✨ Fantasy LMS Website
 
 A fantasy-themed gamified learning management system designed to make learning feel more engaging, rewarding, and visually alive for students.
 
 ### Features
+
 🗡️ Fantasy-inspired interface  
 🎮 Gamified student experience  
 📚 Student-focused dashboard  
 🏆 Progress and reward systems  
-🪄 Interactive UI elements  
+🪄 Interactive UI interactions  
 ☁️ Firebase integration  
 📱 Responsive design  
 🎨 Cute + immersive visual style  
 
 ### Tech Stack
-- React / Next.js
-- Firebase
-- Tailwind CSS
-- Vercel
+
+```txt
+React / Next.js
+Firebase
+Tailwind CSS
+Vercel
 
 ---
 
 ## 🧩 Other Projects
 
 ### 🌐 Sui NFT Marketplace
-A small Web3 NFT marketplace project built while exploring the Sui ecosystem and blockchain concepts.
+
+Small Web3 marketplace project exploring NFT systems and blockchain concepts.
 
 ### 🪙 Coin Template Activity
+
 Blockchain-related activity focused on smart contract and Web3 fundamentals.
 
 ### 🎨 3D Modeling Collection
-3D models made using Onshape.
+
+3D models and experiments created using Onshape.
 
 ---
 
 ## ⚒️ Things I Work On Sometimes
 
-- web systems
-- UI/UX experiments
-- Firebase projects
-- 3D modeling
-- blockchain activities
-- creative concepts that sounded better at 2AM
+- Web Systems
+- UI/UX Experiments
+- Firebase Projects
+- 3D Modeling
+- Creative concepts that sounded better at 2AM
 
 ---
 
