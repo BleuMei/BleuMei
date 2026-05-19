@@ -2,10 +2,11 @@
 
 ### ✦ 𝒷𝓊𝒾𝓁𝒹𝒾𝓃𝑔 𝓉𝒽𝒾𝓃𝑔𝓈 𝓉𝒽𝒶𝓉 𝒻𝑒𝑒𝓁 𝒶𝓁𝒾𝓋𝑒 ✦
 
-<img src="https://img.shields.io/badge/Computer%20Engineering%20Student-cba6f7?style=flat-square"/>
-<img src="https://img.shields.io/badge/creative_systems-f5c2e7?style=flat-square"/>
-<img src="https://img.shields.io/badge/fantasy_UI-b4befe?style=flat-square"/>
-<img src="https://img.shields.io/badge/late_night_ideas-89b4fa?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer_Engineering_Student-ffffff?style=for-the-badge&color=eadcff"/>
+
+<img src="https://img.shields.io/badge/🫧_creative_systems-ffffff?style=flat&color=f8e1ff"/>
+<img src="https://img.shields.io/badge/🌙_fantasy_UI-ffffff?style=flat&color=e0e7ff"/>
+<img src="https://img.shields.io/badge/✨_late_night_ideas-ffffff?style=flat&color=dbeafe"/>
 
 ---
 
@@ -38,11 +39,10 @@ A fantasy-themed gamified learning management system designed to make learning f
 
 ### Tech Stack
 
-```txt
-React / Next.js
-Firebase
-Tailwind CSS
-Vercel
+- React / Next.js
+- Firebase
+- Tailwind CSS
+- Vercel
 
 ---
 
