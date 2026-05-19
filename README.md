@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/Computer_Engineering_Student-fff5ff?style=for-the-badge&color=d8b4fe"/>
 
-<img src="https://img.shields.io/badge/🫧_creative_systems-fff7fb?style=flat&color=ffb7d5"> ✦ <img src="https://img.shields.io/badge/🌙_fantasy_UI-f8f7ff?style=flat&color=9ab6ff"> ✦  <img src="https://img.shields.io/badge/✨_late_night_ideas-fffdf7?style=flat&color=ffd166">
+<img src="https://img.shields.io/badge/🫧_creative_systems-fff7fb?style=flat&color=ffb7d5"> ✦ <img src="https://img.shields.io/badge/🌙_fantasy_UI-f8f7ff?style=flat&color=9ab6ff"> ✦  <img src="https://img.shields.io/badge/✨_late_night_ideas-fdf4ff?style=flat&color=c4b5fd">
 
 ---
 
