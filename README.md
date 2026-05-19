@@ -1,30 +1,35 @@
-## Hi there 👋
-# BleuMei Portfolio Repository Starter Pack
-
-# Main README.md
-
-```md
 # BleuMei
 
-Computer Engineering Student | Creative Systems | Web Development | 3D Modeling
+<div align="center">
 
-I enjoy building creative and interactive systems that combine functionality, aesthetics, and user experience. My interests include gamified web systems, UI/UX design, 3D modeling, and technology-driven projects.
+### ✦ building things that feel alive ✦
+
+</div>
+
+Computer Engineering Student  
+Creative systems • fantasy-inspired UI • random late night ideas
+
+I enjoy building projects that feel interactive, immersive, and personal instead of cold and lifeless. Most of my work revolves around creative web systems, student-focused design, and experimenting with ideas that somehow become real projects.
 
 ---
 
-## Featured Projects
+## 🌙 Current Main Project
 
-### ✨ Fantasy LMS Website
-A fantasy-themed gamified learning management system designed to make educational platforms more interactive, visually engaging, and student-friendly.
+# ✨ Fantasy LMS Website ✨
 
-#### Features
-- Fantasy-inspired UI
-- Student-focused design
-- Gamified elements
-- Firebase integration
-- Responsive web design
+A fantasy-themed gamified learning management system designed to make learning feel more engaging, rewarding, and visually alive for students.
 
-#### Tech Stack
+### Features
+🗡️ Fantasy-inspired interface  
+🎮 Gamified student experience  
+📚 Student-focused dashboard  
+🏆 Progress and reward systems  
+🪄 Interactive UI elements  
+☁️ Firebase integration  
+📱 Responsive design  
+🎨 Cute + immersive visual style  
+
+### Tech Stack
 - React / Next.js
 - Firebase
 - Tailwind CSS
@@ -32,56 +37,30 @@ A fantasy-themed gamified learning management system designed to make educationa
 
 ---
 
+## 🧩 Other Projects
+
 ### 🌐 Sui NFT Marketplace
-A blockchain marketplace activity/project exploring NFT systems and Web3 concepts using the Sui ecosystem.
-
-#### Tech Used
-- Sui
-- Blockchain Concepts
-- Frontend Development
-
----
+A small Web3/NFT marketplace project built while exploring the Sui ecosystem and blockchain concepts.
 
 ### 🪙 Coin Template Activity
-A simple blockchain-related implementation/activity demonstrating basic Web3 and smart contract concepts.
-
----
+Blockchain-related activity/project focused on smart contract and Web3 fundamentals.
 
 ### 🎨 3D Modeling Collection
-A collection of personal 3D models and creative design experiments.
-
-#### Tools Used
-- Onshape
-- Fusion 360
-- CAD Tools
+Personal 3D models and creative experiments made using Blender and Fusion 360.
 
 ---
 
-## Skills
+## ⚒️ Things I Work On Sometimes
 
-- Frontend Development
-- Firebase
-- UI/UX Design
-- GitHub
-- 3D Modeling
-- Documentation
-- Creative Problem Solving
-
----
-
-## Current Goals
-
-- Improve web development skills
-- Expand my LMS project
-- Build more creative systems
-- Learn more about software and interactive technologies
+- web systems
+- UI/UX experiments
+- Firebase projects
+- 3D modeling
+- blockchain activities
+- creative concepts that sounded better at 2AM
 
 ---
 
-## Contact
+## 🌱 Current Goal
 
-GitHub: @BleuMei
-
-```
-
----
+becoming capable enough to turn personal ideas into real systems.
