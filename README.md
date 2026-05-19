@@ -10,7 +10,7 @@ I enjoy building projects that feel interactive, immersive, and personal instead
 
 ---
 
-## 🌙 Current Main Project
+# 🌙 Current Main Project
 
 # ✨ Fantasy LMS Website ✨
 
@@ -37,13 +37,13 @@ A fantasy-themed gamified learning management system designed to make learning f
 ## 🧩 Other Projects
 
 ### 🌐 Sui NFT Marketplace
-A small Web3/NFT marketplace project built while exploring the Sui ecosystem and blockchain concepts.
+A small Web3 NFT marketplace project built while exploring the Sui ecosystem and blockchain concepts.
 
 ### 🪙 Coin Template Activity
-Blockchain-related activity/project focused on smart contract and Web3 fundamentals.
+Blockchain-related activity focused on smart contract and Web3 fundamentals.
 
 ### 🎨 3D Modeling Collection
-Personal 3D models and creative experiments made using Blender and Fusion 360.
+3D models made using Onshape.
 
 ---
 
